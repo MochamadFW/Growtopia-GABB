@@ -2,4 +2,4 @@
 Gabb Source Codes By Reiji Yoshikura
 
 
-https://cdn.discordapp.com/attachments/688532540268609544/693440625516871790/unknown.png
+<img https://cdn.discordapp.com/attachments/688532540268609544/693440625516871790/unknown.png>
