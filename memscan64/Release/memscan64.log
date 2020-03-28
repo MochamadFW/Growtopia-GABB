@@ -1,0 +1,2 @@
+﻿  memscan64.cpp
+c:\cpp\visual studio\gabb\memscan64\memscan64.cpp(295): fatal error C1010: Nieoczekiwany koniec pliku podczas wyszukiwania prekompilowanego pliku nagłówkowego. Czy zapomniano dodać „#include "pch.h"” do źródła?
