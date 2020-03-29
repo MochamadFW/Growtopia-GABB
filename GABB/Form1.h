@@ -74,7 +74,7 @@ namespace GABB {
 
 	protected:
 		/// <summary>
-		/// Wyczyœæ wszystkie u¿ywane zasoby.
+		/// WyczyÅ“Ã¦ wszystkie uÂ¿ywane zasoby.
 		/// </summary>
 		~Form1()
 		{
@@ -212,10 +212,9 @@ private: System::Windows::Forms::CheckBox^  checkBox3;
 		/// </summary>
 
 
-#pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Metoda wymagana do obs³ugi projektanta — nie nale¿y modyfikowaæ
-		/// jej zawartoœci w edytorze kodu.
+		/// Metoda wymagana do obsÂ³ugi projektanta â€” nie naleÂ¿y modyfikowaÃ¦
+		/// jej zawartoÅ“ci w edytorze kodu.
 		/// </summary>
 		void InitializeComponent(void)
 		{
